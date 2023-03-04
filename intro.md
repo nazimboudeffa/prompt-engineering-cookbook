@@ -1,3 +1,5 @@
+What is a prompt 
+
 A prompt is a question asked to an AI
 
 Two types of prompts
@@ -19,3 +21,7 @@ Second, some details about how it will generate the answers
 Third, let him ask questions for example by telling him
 
 *If you have any question about the video, ask before you try to generate the titles. Ok?*
+
+After that the AI will start to ask questions on what we are searching
+
+This is called engineering

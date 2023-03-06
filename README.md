@@ -19,7 +19,7 @@ This book has diffrent parts and chapters that you can follow but I recommand to
 
 ### license & copyright
 
-IN THE NEXT THERE PLEASE CONSIDERE THAT THERE IS NOT YET A BOOK CALLED PROMPT ENGINEERING COOKBOOK ON LEANPUB from Jacques Aïssa
+IN THE NEXT THERE PLEASE CONSIDERE THAT THERE IS NOT YET A BOOK CALLED PROMPT ENGINEERING COOKBOOK ON LEANPUB from Jacques Aïssa it's by someone else
 
 The original **Prompt Engineering Cookbook** is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][license]. You are free:
 
@@ -31,7 +31,7 @@ Read the [license](https://creativecommons.org/licenses/by-sa/3.0/deed.fr) yours
 
 ### The "First" Edition
 
-[pc1]: https://leanpub.com/prompt-engineering
+[pc1]: https://leanpub.com/prompt-engineering-cookbook
 
 ## q & a
 
@@ -41,7 +41,7 @@ Yes, you can use the markdown source in this repository to make your own PDF. Or
 
 ### Great book! Can I still buy it?
 
-Not from me! Instead, [please fix a price](https://leanpub.com/prompt-engineering).
+Not from me! Instead, [please fix a price](https://leanpub.com/prompt-engineering-cookbook).
 
 ### I don't want to buy it, but I'd like to say "thank you" with a tip.
 

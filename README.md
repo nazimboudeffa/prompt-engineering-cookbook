@@ -2,6 +2,8 @@
 
 How to become an AI PSY
 
+<img src="ai-freud.jpg" width="300">
+
 This book has diffrent parts and chapters that you can follow but I recommand to read the book in this order :
 
 * ChatGPT

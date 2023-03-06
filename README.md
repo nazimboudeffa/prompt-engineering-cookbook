@@ -25,7 +25,6 @@ The original **Prompt Engineering Cookbook** is licensed under a [Creative Commo
 
 * to Share—to copy, distribute and transmit the work
 * to Remix—to adapt the work
-* A deployment example with Medusa Marketplace
 * to make commercial use of the work
 
 Read the [license](https://creativecommons.org/licenses/by-sa/3.0/deed.fr) yourself. The bottom line is, it’s free, *free*, **FREE**! And don’t just take my word for it, this repository contains the markdown source for the entire book.

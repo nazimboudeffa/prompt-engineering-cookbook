@@ -35,3 +35,15 @@ Task definition is crucial factor to consider when designing prompts
 "Write a romantic comedy screenplay. The main character must be in their 20s and the story must take place in a small town. The main plot should revolve around the two main characters overcoming obstacles to their relationship, while humourus situations complicate the story. The screenplay should include at least two songs" Break down the prompt into Task Definitions:
 
 After that run your prompt to see the result
+
+## Specificity
+
+Specificity referes to the level of details and precision in a prompt
+
+The more specific a prompt is, the more likely it is that ChatGPT will generate a targeted and accurate response
+
+To achieve specificity in a prompt, important details such as the type of journey or question, the starting and ending points, characters involved, and any relevant background information should be specific
+
+Vague or general prompts can lead to off-topic, irrelevent, or inconsistent responses from ChatGPT
+
+Specificity is crucial in designing prompts as it imp^roves the quality and relevance of the generated content

@@ -1,6 +1,6 @@
 # Prompt Engineering Cookbook
 
-How to becaume an AI psychologist
+How to become an AI psychologist
 
 This book has diffrent parts and chapters that you can follow but I recommand to read the book in this order :
 

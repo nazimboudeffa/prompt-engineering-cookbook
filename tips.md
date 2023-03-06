@@ -14,7 +14,7 @@ It is crucial to consider contextual relavance when designing prompts
 
 "Generate a list of interview questions for a Software Engeineer job in a tech start-up with fast-paced culture for an entry-level position." Break down the prompt above into Contextual relevance
 
-After that run your prompt
+After that run your prompt to see the result
 
 ## Setting a task for ChatGPT
 
@@ -34,4 +34,4 @@ Task definition is crucial factor to consider when designing prompts
 
 "Write a romantic comedy screenplay. The main character must be in their 20s and the story must take place in a small town. The main plot should revolve around the two main characters overcoming obstacles to their relationship, while humourus situations complicate the story. The screenplay should include at least two songs" Break down the prompt into Task Definitions:
 
-After that run your prompt
+After that run your prompt to see the result

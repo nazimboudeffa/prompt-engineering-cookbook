@@ -25,3 +25,17 @@ Third, let him ask questions for example by telling him
 After that the AI will start to ask questions on what we are searching
 
 This is called engineering
+
+# Context is important
+
+Contextual relevance is crucial for generating coherent and accurate responses from ChatGPT
+
+Providing enugh context helps to guide ChatGPT and improves the quality of the generated content
+
+Without enough context, ChatGPT may generate a response that is off-topic, irrelevant, or incnonsistent with the goal of the prompt
+
+It is crucial to consider contextual relavance when designing prompts
+
+## Example 
+
+"Generate a list of interview questions for a Software Engeineer job in a tech start-up with fast-paced culture for an entry-level position." Break down the prompt above into Contextual relevance

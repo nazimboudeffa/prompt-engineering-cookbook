@@ -1,20 +1,20 @@
 ## What can I do with an AI
 
-Find a solution to a problem, a niche, concurents
-
 Find content ideas  like a linkedin post, twitter, ...
 
 Find SEO key words
 
 Write content for your blog or site
 
-Write condesend document of complex documents
-
-Creat action plan for your business
+Write product description for your store
 
 Write Emails
 
 Answer efficiently to your custommers
+
+Creat action plan for your business
+
+Find a solution to a problem, a niche, concurents
 
 Debug code
 

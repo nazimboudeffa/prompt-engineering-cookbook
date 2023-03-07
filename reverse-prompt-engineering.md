@@ -18,6 +18,10 @@ Can you reverse engineer the following {product description}, capture the writin
 product description = PUT_YOUR_TEXT_HERE
 ```
 
+```
+Rewrite the reverse prompt into a prompt that can be used for any product description with a user input feature in the prompt thatuses {}:
+```
+
 ## EXCEL FORMULAS
 
 ## JOB POSTING

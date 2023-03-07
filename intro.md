@@ -1,6 +1,32 @@
-What is a prompt 
+## What can I do with an AI
+
+Find a solution to a problem, a niche, concurents
+
+Find content ideas  like a linkedin post, twitter, ...
+
+Find SEO key words
+
+Write content for your blog or site
+
+Write condesend document of complex documents
+
+Creat action plan for your business
+
+Write Emails
+
+Answer efficiently to your custommers
+
+Debug code
+
+Create TODOs
+
+... etc
+
+## What is a prompt 
 
 A prompt is a question asked to an AI
+
+## What is prompt engineering
 
 Two types of prompts
 

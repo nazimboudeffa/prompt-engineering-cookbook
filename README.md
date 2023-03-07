@@ -2,7 +2,7 @@
 
 How to become an AI PSY
 
-<img src="ai-freud.jpg" width="300">
+<img src="prompt-engineering-cookbook-cover-1800x2700.png" width="300">
 
 This book has diffrent parts and chapters that you can follow but I recommand to read the book in this order :
 
@@ -20,8 +20,6 @@ This book has diffrent parts and chapters that you can follow but I recommand to
 * MidJourney
 
 ### license & copyright
-
-IN THE NEXT THERE PLEASE CONSIDERE THAT THERE IS NOT YET A BOOK CALLED PROMPT ENGINEERING COOKBOOK ON LEANPUB from Jacques Aïssa it's by someone else
 
 The original **Prompt Engineering Cookbook** is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License][license]. You are free:
 

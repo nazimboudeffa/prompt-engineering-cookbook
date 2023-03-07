@@ -10,9 +10,9 @@ This book has diffrent parts and chapters that you can follow but I recommand to
   * forewords : Important people talking about this book, maybe you ?
   * preface
   * [intro : Introduction](intro.md)
-  * [chapter 1 : Tips](chap1.md)
-  * chapter 2
-  * chapter 3
+  * [chapter 1 : What is the content of a prompt](chap1.md)
+  * chapter 2 : How to write a story
+  * chapter 3 : Reverse prompt
   * ...
   * [references](refs.md)
 * MidJourney

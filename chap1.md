@@ -86,3 +86,14 @@ The article should cover a range of strategies and techniques, and should be wri
 
 Use search and expert opinions from credible sources, such as academic journals and productivity experts, to support your audience. Incorporate relevant statistics, examples, and case studies to illustrate your points and help bring the advice to life. Also, make sure to consider the potential challenges and obstacles to increasing productivity, provide strategies to overcome them
 
+### Iteration guidance
+
+In the first iteration, run this : focus on the importance of setting clear goals and prioritizing tasks. Discuss the benefits of goal settings, and provide practivcal tips for setting and achieving goals
+
+In the second iteration, analyse the benefits of the time management techniques, such as the pomodoro method and calendat blocking. Provide practical tips for implementing thses techniques, and discuss how they can help increase productivity
+
+Tape : write a h2 headline for the passage:
+
+In the third iteration, discuss the role of technology in increasing productivity. Consider both the benefits and drawcacks of using technology, and provide advice on how to efficiently use technology to boost productivity
+
+In the final iteration summarize the key takeways from the article and provide a comprehensive guide to increasing productivity. Make sure to provide a clear conclusion and actionable tips for readers based on your findings

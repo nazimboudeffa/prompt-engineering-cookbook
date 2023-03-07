@@ -52,3 +52,5 @@ After that the AI will start to ask questions on what we are searching
 
 This is called engineering
 
+So prompt engineering is the ability to mix all this and submit it to an AI to have answers
+

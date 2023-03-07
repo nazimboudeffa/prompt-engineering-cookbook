@@ -1,4 +1,4 @@
-# How to write a Story
+# How to write a story
 
 ## AUTHOR
 
@@ -39,3 +39,21 @@ Fill out the template above for a {Genre} story
 
 Genre = Sci-Fi
 ```
+
+Copy and past
+
+`Build story outlines from above:`
+
+Copy and past
+
+`Great, now create a story chapters from the outlines above:`
+
+Copy and past
+
+`Write chapter 1 in depth and in great details, in a intriging writing style:`
+
+Copy and past the same for chapter 2 by only editing the 1 into 2 to maintain context
+
+Copy and past
+
+`Write an iteration guidance to the sotry:`

@@ -48,7 +48,7 @@ This is called engineering
 
 So prompt engineering is the ability to mix all this and submit it to an AI to have answers
 
-# What arethe diffrent kind of prompts
+# What are the diffrent kind of prompts
 
 There are two types of prompts
 

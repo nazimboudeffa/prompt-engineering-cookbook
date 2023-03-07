@@ -71,3 +71,18 @@ Iteration is important to consider when designing promps to create effetive, eff
 ## How to design a prompt with these 4 factors in mind
 
 Generate a 300-word article for a personal developement website that provides a comprehensive guide to increasing productivity. The article should cover various strategies and techniques, and be written in a clear and concise style accessible to a general audience. To support your advice, utilize research and expert opinions from credible sources like academic journals and productivity experts. Incorporate relevant statistics, examples, and case studies to illustrate your points and bring the advice to life. Considere the potential challenges and obstacles in increasing productivity, and offer strategies to overcome them
+
+### Context
+
+The prompt is for personal developement website that is providing advice on how to increase productivity
+
+### Task definition
+
+Generate a 300-word article that provides a comprehensive guide to increasing productivity
+
+The article should cover a range of strategies and techniques, and should be written in a clear and concise style that is accessible to the general audience
+
+### Specificity
+
+Use search and expert opinions from credible sources, such as academic journals and productivity experts, to support your audience. Incorporate relevant statistics, examples, and case studies to illustrate your points and help bring the advice to life. Also, make sure to consider the potential challenges and obstacles to increasing productivity, provide strategies to overcome them
+

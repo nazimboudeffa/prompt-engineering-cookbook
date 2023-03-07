@@ -28,17 +28,11 @@ A prompt is a question asked to an AI
 
 ## What is prompt engineering
 
-Two types of prompts
-
-* Prompt by exemple
-* Direct prompting
-
 In a prompt you can give multiple advices to the AI
 
 First, a **role** to the AI by telling him for example 
 
 *You are an expert in writing viral Youtube titles*
-
 
 Second, some details about how it will generate the answers
 
@@ -54,3 +48,9 @@ This is called engineering
 
 So prompt engineering is the ability to mix all this and submit it to an AI to have answers
 
+# What arethe diffrent kind of prompts
+
+There are two types of prompts
+
+* Prompt by exemple
+* Direct prompting

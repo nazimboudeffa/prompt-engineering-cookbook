@@ -67,3 +67,7 @@ Each iteration should be guided by the results of the previous trials, aiming to
 Embracing an iterative approach allows for continuous improvement and optimisation of the generated content
 
 Iteration is important to consider when designing promps to create effetive, efficient, and outcome-aligned prompt
+
+## How to design a prompt with these 4 factors in mind
+
+

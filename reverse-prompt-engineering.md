@@ -42,3 +42,13 @@ Rewrite the prompt into a prompt that can be used for any job posting:
 
 Now you have a general job post use it with the variables
 
+## CODE
+
+```
+Reverse engineer the following {code} in to a prompt:
+
+code = 
+
+YOU_CODE
+```
+

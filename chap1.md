@@ -70,4 +70,4 @@ Iteration is important to consider when designing promps to create effetive, eff
 
 ## How to design a prompt with these 4 factors in mind
 
-
+Generate a 300-word article for a personal developement website that provides a comprehensive guide to increasing productivity. The article should cover various strategies and techniques, and be written in a clear and concise style accessible to a general audience. To support your advice, utilize research and expert opinions from credible sources like academic journals and productivity experts. Incorporate relevant statistics, examples, and case studies to illustrate your points and bring the advice to life. Considere the potential challenges and obstacles in increasing productivity, and offer strategies to overcome them

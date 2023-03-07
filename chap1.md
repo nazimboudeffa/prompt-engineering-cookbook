@@ -53,3 +53,17 @@ Specificity is crucial in designing prompts as it imp^roves the quality and rele
 "Write a story about a character who embarks on a quest to find a lost magical artifact. Describe the journey they take, the obstacles they face, and how they eventually find the relic. Be sure to include elements of adventure, suspence, and danger, as well as details about the characters and the mystical creatures they may encounter along the way" Break down the prompt analyse the specificity of the prompts:
 
 After that run your prompt to see the result
+
+## Iterations
+
+Iteration is a crucial part of the prompt design process
+
+Prompt design is an iterative process and may take multiple attempts to create an effective prompt
+
+Iteration involves refining and improving the prompt through cycles of design, testing, and evaluation
+
+Each iteration should be guided by the results of the previous trials, aiming to address any limitations encountered
+
+Embracing an iterative approach allows for continuous improvement and optimisation of the generated content
+
+Iteration is important to consider when designing promps to create effetive, efficient, and outcome-aligned prompt

@@ -1,4 +1,4 @@
-# TIPS
+# How to write prompts
 
 ## Context is important
 

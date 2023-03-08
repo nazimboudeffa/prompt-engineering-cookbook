@@ -25,3 +25,21 @@ The idea behind prompt engineering is that language models are not perfect and c
 The process of prompt engineering involves selecting appropriate language and phrasing to guide the model towards specific types of responses. This can involve designing prompts that elicit certain types of information or that encourage the model to take a certain perspective on a given topic.
 
 Prompt engineering has become increasingly important in the development of large language models such as GPT-3, where the ability to generate accurate and relevant responses can have significant real-world implications. Researchers and practitioners in the field of NLP are constantly experimenting with different approaches to prompt engineering in order to improve the accuracy and reliability of language models.
+
+## Provide examples of how prompt engineering is used in NLP
+
+Here are some examples of how prompt engineering is used in natural language processing (NLP):
+
+Question Answering: In question-answering tasks, a prompt is designed to ask a specific question, and the language model generates an answer. For example, a prompt might be "What is the capital of France?" and the model generates "Paris" as the answer.
+
+Sentiment Analysis: In sentiment analysis, a prompt is designed to elicit a specific sentiment or opinion about a given topic. For example, a prompt might be "What are your thoughts on the new iPhone?" and the model generates a positive or negative sentiment based on the language used in the response.
+
+Language Translation: In language translation, a prompt is designed to provide context for the translation task. For example, a prompt might be "Translate this sentence from French to English: 'Je suis fatigue'" and the model generates "I am tired" as the translated sentence.
+
+Text Summarization: In text summarization, a prompt is designed to specify the length or level of detail for the summary. For example, a prompt might be "Summarize this news article in 3 sentences" and the model generates a summary that meets that requirement.
+
+Conversation Generation: In conversation generation, prompts are used to initiate a conversation and steer it towards a specific topic. For example, a prompt might be "Let's talk about your favorite vacation spot" and the model generates responses related to the topic of vacation spots.
+
+Prompt engineering is a versatile technique that can be used in a wide range of NLP tasks to improve the accuracy and relevance of the language model's output.
+
+

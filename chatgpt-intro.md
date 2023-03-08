@@ -13,3 +13,13 @@ Prompt engineering is the process of designing and developing prompts or inputs 
 In the context of machine learning models such as GPT-3, prompt engineering involves designing and refining the prompts or input examples used to train the model. This can include selecting the right type of prompts, tuning the hyperparameters of the model to improve performance, and optimizing the input data to improve accuracy and efficiency.
 
 Effective prompt engineering is critical to building high-performing NLP models, as it enables the model to learn and generalize from a diverse set of input examples, and generate accurate and contextually appropriate responses.
+
+# What is the concept of prompt engineering
+
+Prompt engineering is a technique in natural language processing (NLP) that involves designing or crafting a set of prompts to elicit specific responses from a language model. These prompts are inputs given to the model in order to guide its output towards a desired response.
+
+The idea behind prompt engineering is that language models are not perfect and can produce incorrect or biased results if the data they are trained on is incomplete or biased. By providing carefully crafted prompts, we can steer the model towards generating more accurate and relevant responses.
+
+The process of prompt engineering involves selecting appropriate language and phrasing to guide the model towards specific types of responses. This can involve designing prompts that elicit certain types of information or that encourage the model to take a certain perspective on a given topic.
+
+Prompt engineering has become increasingly important in the development of large language models such as GPT-3, where the ability to generate accurate and relevant responses can have significant real-world implications. Researchers and practitioners in the field of NLP are constantly experimenting with different approaches to prompt engineering in order to improve the accuracy and reliability of language models.

@@ -16,7 +16,11 @@ It is crucial to consider contextual relavance when designing prompts
 
 ### Example 
 
+Copy past in ChatGPT
+
+```
 "Generate a list of interview questions for a Software Engeineer job in a tech start-up with fast-paced culture for an entry-level position." Break down the prompt above into Contextual relevance
+```
 
 After that run your prompt to see the result
 
@@ -36,7 +40,11 @@ Task definition is crucial factor to consider when designing prompts
 
 ### Example
 
+Copy past in ChatGPT
+
+```
 "Write a romantic comedy screenplay. The main character must be in their 20s and the story must take place in a small town. The main plot should revolve around the two main characters overcoming obstacles to their relationship, while humourus situations complicate the story. The screenplay should include at least two songs" Break down the prompt into Task Definitions:
+```
 
 After that run your prompt to see the result
 
@@ -54,7 +62,11 @@ Specificity is crucial in designing prompts as it imp^roves the quality and rele
 
 ### Example
 
+Copy past in ChatGPT
+
+```
 "Write a story about a character who embarks on a quest to find a lost magical artifact. Describe the journey they take, the obstacles they face, and how they eventually find the relic. Be sure to include elements of adventure, suspence, and danger, as well as details about the characters and the mystical creatures they may encounter along the way" Break down the prompt analyse the specificity of the prompts:
+```
 
 After that run your prompt to see the result
 

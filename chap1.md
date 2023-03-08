@@ -1,5 +1,9 @@
 # How to write prompts
 
+When you start writing prompts on ChatGPT, you come from a long journey using Google or another search engine, so you may ask it "What is javascript" so it will generate an answer in the form of a text explaining the basic concepts of JS
+
+Now with this technology things are a bit more interesting, you can do prompt engineering by giving ChatGPT a context, tasks, and iterate on the answers to develop the ideas it gives you
+
 ## Context is important
 
 Contextual relevance is crucial for generating coherent and accurate responses from ChatGPT

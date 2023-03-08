@@ -1,4 +1,6 @@
-# What is a prompt
+# Define Prompt Engineering
+
+## What is a prompt
 
 In natural language processing (NLP), a prompt is a specific input provided to a language model that guides its output or response. Essentially, a prompt is a starting point or context given to the language model, which it uses to generate a response or perform a specific NLP task.
 
@@ -6,7 +8,7 @@ Prompts can take different forms, depending on the NLP task at hand. For example
 
 The quality of the prompt is crucial to the language model's performance, as it determines the accuracy, relevance, and completeness of the output or response. A well-designed prompt provides clear and specific guidance to the language model, while a poorly designed prompt can result in inaccurate or irrelevant responses. Therefore, designing effective prompts is a critical component of prompt engineering and optimizing the performance of language models in NLP tasks.
 
-# What is prompt engineering
+## What is prompt engineering
 
 Prompt engineering is the process of designing and developing prompts or inputs for a natural language processing (NLP) system to generate coherent and relevant responses. It involves crafting prompts or queries that can elicit the desired information or action from the NLP model.
 
@@ -14,7 +16,7 @@ In the context of machine learning models such as GPT-3, prompt engineering invo
 
 Effective prompt engineering is critical to building high-performing NLP models, as it enables the model to learn and generalize from a diverse set of input examples, and generate accurate and contextually appropriate responses.
 
-# What is the concept of prompt engineering
+## What is the concept of prompt engineering
 
 Prompt engineering is a technique in natural language processing (NLP) that involves designing or crafting a set of prompts to elicit specific responses from a language model. These prompts are inputs given to the model in order to guide its output towards a desired response.
 

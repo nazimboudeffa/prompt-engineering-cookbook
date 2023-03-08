@@ -1,4 +1,4 @@
-# Define Prompt Engineering
+# Defining Prompt Engineering
 
 ## What is a prompt
 

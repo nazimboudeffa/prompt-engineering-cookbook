@@ -16,7 +16,7 @@ This book has diffrent parts and chapters that you can follow but I recommand to
   * chapter 4
   * chapter 5
   * ...
-  * [chapter x : Tips](tips.md)
+  * [chapter x : Tips](chapx.md)
   * [references](refs.md)
 * MidJourney
 

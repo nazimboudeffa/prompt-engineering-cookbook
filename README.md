@@ -9,14 +9,14 @@ This book has diffrent parts and chapters that you can follow but I recommand to
 * ChatGPT
   * forewords : Important people talking about this book, maybe you ?
   * preface
-  * [intro : Introduction](intro.md)
-  * [chapter 1 : What is the content of a prompt](chap1.md)
-  * [chapter 2 : How to write a story](chap2.md)
-  * [chapter 3 : Reverse prompt](chap3.md)
-  * [chapter 4 : Prompt ideas](chap4.md)
+  * [intro : Introduction](human-intro.md)
+  * [chapter 1 : What is the content of a prompt](human-chap1.md)
+  * [chapter 2 : How to write a story](human-chap2.md)
+  * [chapter 3 : Reverse prompt](human-chap3.md)
+  * [chapter 4 : Prompt ideas](human-chap4.md)
   * chapter 5
   * ...
-  * [chapter x : Tips](chapx.md)
+  * [chapter x : Tips](human-chapx.md)
   * [references](refs.md)
 * MidJourney
 

@@ -13,7 +13,7 @@ This book has diffrent parts and chapters that you can follow but I recommand to
   * [chapter 1 : What is the content of a prompt](chap1.md)
   * [chapter 2 : How to write a story](chap2.md)
   * [chapter 3 : Reverse prompt](chap3.md)
-  * chapter 4
+  * [chapter 4 : Prompt ideas](chap4.md)
   * chapter 5
   * ...
   * [chapter x : Tips](chapx.md)

@@ -4,7 +4,7 @@ I am one of the big fan of copy past adapt from stackoverflow (particularily wit
 
 # Let's generate some code
 
-Now that you are familiar with prompt engineering and how to reverse it reverse, let's earch in [blackboxai](https://www.useblackbox.io/search) how to generate typeorm definition
+Now that you are familiar with prompt engineering and how to reverse it, let's search in [blackboxai](https://www.useblackbox.io/search) how to generate typeorm models
 
 So I have just asked : typeorm code generation
 

@@ -2,24 +2,24 @@
 
 How to become an AI PSY > [DRAFT](https://docs.google.com/document/d/1GVSCuhbcZf3Xf6pHFwOUm5Q_Ms19h79T7UqtojHOBvQ/edit?usp=sharing)
 
+To write this book I have taken my way of doing stuff and [the ChatGPT version](https://github.com/nazimboudeffa/prompt-engineering-cookbook-chatgpt)
+
 <img src="prompt-engineering-cookbook-cover-1800x2700.png" width="300">
 
 This book has diffrent parts and chapters that you can follow but I recommand to read the book in this order :
 
-* HUMAN VERSION
-  * forewords : Important people talking about this book, maybe you ?
-  * [preface](human-preface.md)
-  * [introduction : What is prompt engineering](human-intro.md)
-  * [chapter 1 : How to create a prompt](human-chap-create.md)
-  * [chapter 2 : Reverse prompt](human-chap-reverse.md) *find its place*
-  * [chapter 3 : Prompt ideas](human-chap-ideas.md)
-  * [chapter 4 : How to write a story](human-chap-story.md)
-  * chapter 5 : Code generation
-  * chapter 6 : Email generation
-  * ...
-  * [Annex : Tips](human-chap-tips.md)
-  * [references](refs.md)
-* CHATGPT VERSION
+ * forewords : Important people talking about this book, maybe you ?
+ * [preface](human-preface.md)
+ * [introduction : What is prompt engineering](human-intro.md)
+ * [chapter 1 : How to create a prompt](human-chap-create.md)
+ * [chapter 2 : Reverse prompt](human-chap-reverse.md) *find its place*
+ * [chapter 3 : Prompt ideas](human-chap-ideas.md)
+ * [chapter 4 : How to write a story](human-chap-story.md)
+ * chapter 5 : Code generation
+ * chapter 6 : Email generation
+ * ...
+ * [Annex : Tips](human-chap-tips.md)
+ * [references](refs.md)
 
 ### license & copyright
 

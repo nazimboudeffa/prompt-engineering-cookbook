@@ -15,8 +15,9 @@ This book has diffrent parts and chapters that you can follow but I recommand to
  * [chapter 2 : Reverse prompt](human-chap-reverse.md)
  * [chapter 3 : Prompt ideas](human-chap-ideas.md)
  * [chapter 4 : How to write a story](human-chap-story.md)
- * [chapter 5 : Code generation](human-chap-code.md)
+ * [chapter 5 : How to write Code](human-chap-code.md)
  * chapter 6 : Email generation
+ * chapter 6 : Product description generation
  * ...
  * [Annex : Tips](human-chap-tips.md)
  * [references](refs.md)

@@ -1,5 +1,14 @@
 # How to write code
 
+To write code there are multiple manners :
+
+* From your expertise
+* From your inspiration but code is code so you'll use your knowledge
+* From Googling or tutorial on YT
+* From StackOverflow
+
+But like we've seen in the forewords, some jobs will disapear because the coders are too specialised
+
 I am one of the big fan of copy past adapt from stackoverflow (particularily with new frameworks) but with ChatGPT it started to be better to understand new technologies
 
 # Let's generate some code

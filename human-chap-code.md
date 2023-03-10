@@ -59,3 +59,7 @@ Create a User entity using TypeORM that has the following properties:
 * age: a number that represents the user's age
 
 The entity should be decorated with the @Entity() decorator, and each property should be decorated with the appropriate decorator (@PrimaryGeneratedColumn() for the id, and @Column() for the firstName, lastName, and age properties).
+
+This is very inspiring right ?
+
+So let's continue

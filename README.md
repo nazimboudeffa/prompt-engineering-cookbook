@@ -6,7 +6,7 @@ How to become an AI PSY > [DRAFT](https://docs.google.com/document/d/1GVSCuhbcZf
 
 This book has diffrent parts and chapters that you can follow but I recommand to read the book in this order :
 
-* ChatGPT
+* HUMAN VERSION
   * forewords : Important people talking about this book, maybe you ?
   * [preface](human-preface.md)
   * [introduction : What is prompt engineering](human-intro.md)
@@ -19,7 +19,7 @@ This book has diffrent parts and chapters that you can follow but I recommand to
   * ...
   * [Annex : Tips](human-chap-tips.md)
   * [references](refs.md)
-* MidJourney
+* CHATGPT VERSION
 
 ### license & copyright
 

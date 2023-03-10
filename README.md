@@ -12,7 +12,7 @@ This book has diffrent parts and chapters that you can follow but I recommand to
  * [preface](human-preface.md)
  * [introduction : What is prompt engineering](human-intro.md)
  * [chapter 1 : How to create a prompt](human-chap-create.md)
- * [chapter 2 : Reverse prompt](human-chap-reverse.md) *find its place*
+ * [chapter 2 : Reverse prompt](human-chap-reverse.md)
  * [chapter 3 : Prompt ideas](human-chap-ideas.md)
  * [chapter 4 : How to write a story](human-chap-story.md)
  * [chapter 5 : Code generation](human-chap-code.md)

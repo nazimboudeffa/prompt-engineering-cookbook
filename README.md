@@ -8,7 +8,7 @@ This book has diffrent parts and chapters that you can follow but I recommand to
 
 * ChatGPT
   * forewords : Important people talking about this book, maybe you ?
-  * [preface](preface.md)
+  * [preface](human-preface.md)
   * [introduction : What is prompt engineering](human-intro.md)
   * [chapter 1 : How to create a prompt](human-chap1.md)
   * [chapter 2 : How to write a story](human-chap2.md)

@@ -1,3 +1,7 @@
+# Prompt Ideas
+
+From those ideas we will explain them in more details in this book
+
 # Email
 
 I have received a mail : [EMAIL]

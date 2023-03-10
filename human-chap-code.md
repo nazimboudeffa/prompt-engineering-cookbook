@@ -1,3 +1,7 @@
+# How to write code
+
+I am one of the big fan of copy past adapt from stackoverflow (particularily with new frameworks) but with ChatGPT it started to be better to understand new technologies
+
 # Let's generate some code
 
 Now that you are familiar with prompt engineering and how to reverse it reverse, let's earch in [blackboxai](https://www.useblackbox.io/search) how to generate typeorm definition

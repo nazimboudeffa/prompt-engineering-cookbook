@@ -2,8 +2,8 @@
 
 To write code there are multiple manners :
 
-* From your expertise
-* From your inspiration but code is code so you'll use your knowledge
+* From your expertise and long experience
+* From your inspiration but code is code so you'll use your knowledge/datas/old code
 * From Googling or tutorial on YT
 * From StackOverflow
 

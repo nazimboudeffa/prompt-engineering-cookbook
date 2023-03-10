@@ -15,6 +15,7 @@ This book has diffrent parts and chapters that you can follow but I recommand to
   * [chapter 3 : Prompt ideas](human-chap4.md)
   * [chapter 4 : How to write a story](human-chap2.md)
   * chapter 5 : Code generation
+  * chapter 6 : Email generation
   * ...
   * [chapter x : Tips](human-chapx.md)
   * [references](refs.md)

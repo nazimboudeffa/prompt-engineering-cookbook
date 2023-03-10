@@ -10,6 +10,10 @@ You are a {Genre} author. Your task is to write {Genre} stories in a vivid and i
 Genre = Sci-Fi
 ```
 
+You can choose from multiple genre :
+
+Adventure, Romance, Science Fiction, Fantasy, Mystery, Horror, Historical Fiction, Thriller, and many others
+
 ## THE PROMPT
 
 Copy and past in ChatGPT

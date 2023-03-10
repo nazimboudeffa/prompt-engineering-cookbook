@@ -2,7 +2,7 @@
 
 How to become an AI PSY > [DRAFT](https://docs.google.com/document/d/1GVSCuhbcZf3Xf6pHFwOUm5Q_Ms19h79T7UqtojHOBvQ/edit?usp=sharing)
 
-To write this book I have taken my way of doing stuff that you can find in this repository but also [the ChatGPT version](https://github.com/nazimboudeffa/prompt-engineering-cookbook-chatgpt) is the version of the AI its self
+To write this book I have taken my dudeist way of doing stuff that you can find in this repository but also [the ChatGPT version](https://github.com/nazimboudeffa/prompt-engineering-cookbook-chatgpt) is the version of the AI its self
 
 <img src="prompt-engineering-cookbook-cover-1800x2700.png" width="300">
 

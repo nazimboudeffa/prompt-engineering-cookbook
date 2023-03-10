@@ -8,7 +8,7 @@ To write this book I have taken my way of doing stuff that you can find in this 
 
 This book has diffrent parts and chapters that you can follow but I recommand to read the book in this order :
 
- * forewords : Important people talking about this book, maybe you ?
+ * forewords : Important people to me talking about this book, maybe you ?
  * [preface](human-preface.md)
  * [introduction : What is prompt engineering](human-intro.md)
  * [chapter 1 : How to create a prompt](human-chap-create.md)

@@ -1,5 +1,7 @@
 # Reverse prompt engineering
 
+Before we continue, you have to be familiar with reverse prompt engineering, it's a technique to understand how to generate contents and particularily code
+
 ## DISCOURSE
 
 copy and past in ChatGPT

@@ -17,7 +17,7 @@ This book has diffrent parts and chapters that you can follow but I recommand to
   * chapter 5 : Code generation
   * chapter 6 : Email generation
   * ...
-  * [chapter x : Tips](human-chapx.md)
+  * [Annex : Tips](human-chap-tips.md)
   * [references](refs.md)
 * MidJourney
 

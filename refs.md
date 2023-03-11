@@ -8,3 +8,7 @@
 # Links
 
 * https://prompthero.com/
+
+# Books
+
+* https://rowancheung.gumroad.com/l/chatgptbusinessideas

@@ -11,4 +11,4 @@
 
 # Books
 
-* https://rowancheung.gumroad.com/l/chatgptbusinessideas
+* https://rowancheung.gumroad.com

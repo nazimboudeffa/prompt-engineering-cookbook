@@ -1,6 +1,6 @@
 # Prompt Engineering CookBook
 
-How to become an AI PSY > [DRAFT](https://docs.google.com/document/d/1GVSCuhbcZf3Xf6pHFwOUm5Q_Ms19h79T7UqtojHOBvQ/edit?usp=sharing)
+How to become an AI PSY by a human PoV
 
 To write this book I have taken my dudeist way of doing stuff that you can find in this repository but also generated [the ChatGPT version](https://github.com/nazimboudeffa/prompt-engineering-cookbook-chatgpt) from the AI its self
 

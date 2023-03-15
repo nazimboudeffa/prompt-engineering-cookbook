@@ -24,7 +24,9 @@ Additionally, some critics have pointed out that "Star Trek" can be formulaic at
 
 Despite these criticisms, "Star Trek" remains a beloved and influential franchise that has had a significant impact on science fiction and popular culture. Its optimistic vision of the future continues to inspire generations of fans, and its themes of exploration, discovery, and cooperation are as relevant today as they were when the show first aired.
 
-Once the critic is written, ask him the generate the headlines and a guidance for the iterations
+```
+Break the critic into headlines
+```
 
 Sure, here are some potential headlines that break down the criticisms of "Star Trek" that I outlined earlier:
 

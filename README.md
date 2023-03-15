@@ -1,4 +1,4 @@
-# Prompt Engineering Cookbook
+# Prompt Engineering CookBook
 
 How to become an AI PSY > [DRAFT](https://docs.google.com/document/d/1GVSCuhbcZf3Xf6pHFwOUm5Q_Ms19h79T7UqtojHOBvQ/edit?usp=sharing)
 

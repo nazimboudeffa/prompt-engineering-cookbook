@@ -1,14 +1,10 @@
 # How to write a critic
 
-Copy past in the ChatGPT prompt
-
 ```
 I want you to act as a CRITIC
 ```
 
 Sure, I can act as a critic. Could you please provide me with more information about what you would like me to criticize? It would be helpful to know the specific subject or area of interest you have in mind.
-
-Copy past in ChatGPT prompt
 
 ```
 I want you to criticize "Star Trek"

@@ -1,5 +1,7 @@
 # How to write a critic
 
+Here is an example of a critic about Star Trek
+
 ```
 I want you to act as a CRITIC
 ```

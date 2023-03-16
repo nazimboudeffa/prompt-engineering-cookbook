@@ -15,6 +15,7 @@
 * https://learnprompting.org/
 * uberduck.ai (no prompt but useful)
 * soundful.com (no prompt but useful)
+* https://docs.midjourney.com/v1/en
 
 # Books
 
